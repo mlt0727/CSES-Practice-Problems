@@ -46,9 +46,9 @@ Then enter the problem's input. You can also run the file in your editor with a 
 
 ## Reference code and explanations
 
-All Python solution files are in the [solutions/](solutions/) folder.
+Python reference implementations for all 10 problems are in the [solutions/](solutions/) folder. This repository provides Python solutions only; you may still use your preferred language for your own practice.
 
-Reference Python code and [approach explanations](SOLUTION_NOTES.md) are currently available for **Counting Rooms** and **Distinct Values Subarrays II**. The other eight Python files are empty placeholders, not completed solutions. The existing programs have not been verified as Accepted on CSES as part of this repository setup.
+The [solution notes](SOLUTION_NOTES.md) explain the approach, key implementation details, and time and space complexity for each problem.
 
 Use these resources after making your own attempt so that the self-assessment reflects your independent preparation.
 
@@ -56,7 +56,15 @@ Use these resources after making your own attempt so that the self-assessment re
 <summary>After attempting the problems: open the reference code</summary>
 
 - [Counting Rooms.py](solutions/Counting%20Rooms.py)
+- [Factory Machines.py](solutions/Factory%20Machines.py)
+- [Book Shop.py](solutions/Book%20Shop.py)
+- [Static Range Sum Queries.py](solutions/Static%20Range%20Sum%20Queries.py)
+- [Course Schedule.py](solutions/Course%20Schedule.py)
+- [Message Route.py](solutions/Message%20Route.py)
+- [Counting Divisors.py](solutions/Counting%20Divisors.py)
+- [Shortest Routes I.py](solutions/Shortest%20Routes%20I.py)
 - [Distinct Values Subarrays II.py](solutions/Distinct%20Values%20Subarrays%20II.py)
+- [Road Reparation.py](solutions/Road%20Reparation.py)
 - [Solution notes](SOLUTION_NOTES.md)
 
 </details>

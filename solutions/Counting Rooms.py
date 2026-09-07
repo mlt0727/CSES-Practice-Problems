@@ -1,3 +1,4 @@
+# https://cses.fi/problemset/task/1192/
 rows, cols = map(int, input().split())
 grid = [list(input()) for _ in range(rows)]
 

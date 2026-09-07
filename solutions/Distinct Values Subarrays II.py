@@ -1,3 +1,4 @@
+# https://cses.fi/problemset/task/2428/
 from collections import defaultdict
 
 n, k = map(int, input().split())

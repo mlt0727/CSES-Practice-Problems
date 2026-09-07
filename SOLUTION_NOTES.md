@@ -4,7 +4,7 @@ Attempt the problems independently before reading these notes or the linked code
 
 ## Counting Rooms
 
-[Problem](https://cses.fi/problemset/task/1192/) | [Python code](Counting%20Rooms.py)
+[Problem](https://cses.fi/problemset/task/1192/) | [Python code](solutions/Counting%20Rooms.py)
 
 Each room is a connected component of floor cells (`.`), connected horizontally or vertically.
 
@@ -19,7 +19,7 @@ For a grid with `rows * cols` cells, time is `O(rows * cols)` and worst-case spa
 
 ## Distinct Values Subarrays II
 
-[Problem](https://cses.fi/problemset/task/2428/) | [Python code](Distinct%20Values%20Subarrays%20II.py)
+[Problem](https://cses.fi/problemset/task/2428/) | [Python code](solutions/Distinct%20Values%20Subarrays%20II.py)
 
 Count contiguous subarrays containing at most `k` distinct values using a sliding window.
 

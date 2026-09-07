@@ -39,12 +39,14 @@ This is independent practice, not a graded assignment or formal competition. You
 For a local Python run, open a terminal in this folder and use, for example:
 
 ```sh
-python "Counting Rooms.py"
+python "solutions/Counting Rooms.py"
 ```
 
 Then enter the problem's input. You can also run the file in your editor with a configured Python interpreter.
 
 ## Reference code and explanations
+
+All Python solution files are in the [solutions/](solutions/) folder.
 
 Reference Python code and [approach explanations](SOLUTION_NOTES.md) are currently available for **Counting Rooms** and **Distinct Values Subarrays II**. The other eight Python files are empty placeholders, not completed solutions. The existing programs have not been verified as Accepted on CSES as part of this repository setup.
 
@@ -53,8 +55,8 @@ Use these resources after making your own attempt so that the self-assessment re
 <details>
 <summary>After attempting the problems: open the reference code</summary>
 
-- [Counting Rooms.py](Counting%20Rooms.py)
-- [Distinct Values Subarrays II.py](Distinct%20Values%20Subarrays%20II.py)
+- [Counting Rooms.py](solutions/Counting%20Rooms.py)
+- [Distinct Values Subarrays II.py](solutions/Distinct%20Values%20Subarrays%20II.py)
 - [Solution notes](SOLUTION_NOTES.md)
 
 </details>

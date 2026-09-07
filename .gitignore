@@ -1,0 +1,17 @@
+# Local editor settings and Competitive Programming Helper test data
+.cph/
+.vscode/
+.idea/
+
+# Python environments and generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

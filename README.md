@@ -1,6 +1,6 @@
 # CSES Practice Problems
 
-Optional preparation for the seven-week ICPC Training Program, with 10 CSES problems and a self-assessment guide.
+Preparation for the seven-week ICPC Training Program, with 10 CSES problems and a self-assessment guide.
 
 This is independent practice, not a graded assignment or formal competition. You do not need to report your progress. Try as many problems as you can, using your preferred programming language. Starting with pseudocode is encouraged.
 
